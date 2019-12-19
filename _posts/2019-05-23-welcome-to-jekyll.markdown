@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Vida de Tester em uma pequena empresa"
-date:   2019-05-23 21:03:36 +0530
+title:  "Vida de tester em uma pequena empresa com software legado"
+date:   2019-12-18 21:53:36 +03
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+Sabe quando você pensa em desistir de tudo?
+
+Isso que passa na minha cabeça todos os dias quando eu me deparo com os bugs que os desenvolvedores do meu time geram. É impressionante a capacidade deles ignorarem o bug que voa, pousa no nariz deles e ainda conversa com eles.
 
 ![texture theme preview](https://images.unsplash.com/photo-1500322969630-a26ab6eb64cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
 
