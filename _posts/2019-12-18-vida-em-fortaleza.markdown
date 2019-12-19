@@ -1,16 +1,20 @@
 ---
 layout: post
-title:  "Vida de tester/QA em Fortaleza-CE"
-date:   2019-12-18 21:53:36 +03
+title:  "Quem é Jefferson Melo?"
+description: Vou contar um pouco quem sou e como cheguei aqui
+date:   2019-12-18 21:53:36 +0530
+categories: Carreira
 ---
-Sabe quando você pensa em desistir de tudo?
+Nascido em Fortaleza-CE, aluno de escola pública, decidi após ter feito um curso profissionalizante em lógica de programação não trabalhar com programação.
 
-É isso que passa na minha cabeça todos os dias quando eu me deparo com os bugs que os desenvolvedores do meu time geram. É impressionante a capacidade deles ignorarem os bugs.
+Mas como assim??????
 
-![texture theme preview](https://images.unsplash.com/photo-1500322969630-a26ab6eb64cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
+Pois bem, decidi que não queria trabalhar com programação porquê eu via o estilo de vida que a minha professora de lógica da época tinha, ela sempre aparentava estar cansada, com olheiras, sem ânimo. Eu jovem e inocente, achei que todos que iam para esta área tinham o mesmo rumo, então decidi não entrar.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Mas se eu não ia trabalhar com desenvolvimento que era o ramo que a escola estava me preparando, com que eu iria? Foi aí que surgiu um estágio em uma empresa que chamada "NPI - Soluções em Tecnologia" para o setor de suporte a sistemas, o famoso help desk. Fiquei praticamente 5 anos trabalhando no setor depois do estágio, viajando o Brasil, realizando implantações, atendendo clientes por telefone e via Skype, até gostei desse período, mas senti que o mercado não valoriza muito os profissionais dessa área, temia não ter uma carreira.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Um certo dia decidi procurar outro meio do ramo de tecnologia que eu me encaixasse e que me desse uma estabilidade, foi aí que eu conheci a área de qualidade e logo fiquei muito entusiasmado com o que fui conhecendo. Por coincidência na época recebi o convite da empresa que trabalhava como consultor de sistemas para assumir um cargo de testador pois um novo gerente de projetos tinha entrado e queria criar uma espécie de setor de homologação, logo topei o desafio e comecei a trabalhar com testes.
+
+Atingi resultados satisfatórios e vendo crescendo a cada dia.
+
+Hoje aqui estou eu, feliz com a minha profissão, buscando aprender cada vez mais e não tendo mais medo de codar, pois além de tudo quero me tornar um automatizador full master qualquercoisaqueprepresentantealgogrande.
