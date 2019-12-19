@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Vida de tester em uma pequena empresa com software legado"
+title:  "Vida de tester/QA em Fortaleza-CE"
 date:   2019-12-18 21:53:36 +03
 ---
 Sabe quando você pensa em desistir de tudo?
 
-Isso que passa na minha cabeça todos os dias quando eu me deparo com os bugs que os desenvolvedores do meu time geram. É impressionante a capacidade deles ignorarem o bug que voa, pousa no nariz deles e ainda conversa com eles.
+É isso que passa na minha cabeça todos os dias quando eu me deparo com os bugs que os desenvolvedores do meu time geram. É impressionante a capacidade deles ignorarem os bugs.
 
 ![texture theme preview](https://images.unsplash.com/photo-1500322969630-a26ab6eb64cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
 
