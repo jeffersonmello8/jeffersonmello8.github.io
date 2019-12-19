@@ -15,18 +15,18 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: Jefferson Melo
+  tagline: Quality Assurance
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
-  showPicker: true
+  showPicker: false
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    twitter: jeffersonmello8
+    github:  jeffersonmello8
+    linkedIn: in/jeffersonmelo8
     rss: rss
  
 
