@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Instalando o Ruby no Windows"
-description: Neste artigo, irei demonstrar como realizar a instalação do Ruby para realizar testes com os frameworks RSpec e Capybara.
+description: Neste artigo, irei demonstrar como realizar a instalação do Ruby para realizar testes de interface com os frameworks RSpec e Capybara.
 date:   2019-12-20 12:42:00 +0530
 categories: Ferramentas
 ---
