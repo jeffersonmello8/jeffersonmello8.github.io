@@ -15,7 +15,7 @@ permalink: /posts/:title/
 texture:
   title: Jefferson Melo
   tagline: Quality Assurance
-  date_format: "%b %-d, %Y"
+  date_format: "%d/%m/%Y"
   style: black
   showNav: false
   showPicker: false
